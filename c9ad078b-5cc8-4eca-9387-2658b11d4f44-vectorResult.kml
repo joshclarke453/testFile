@@ -2,18 +2,18 @@
   <ns0:Document id="root_doc">
     <Style id="tidal">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>7f0000ff</color>
       </LineStyle>
       <PolyStyle>
-        <color>ff0000ff</color>
+        <color>7f0000ff</color>
         <fill>1</fill>
       </PolyStyle>
     </Style><Style id="flood">
       <LineStyle>
-        <color>ffff0000</color>
+        <color>7fff0000</color>
       </LineStyle>
       <PolyStyle>
-        <color>ffff0000</color>
+        <color>7fff0000</color>
         <fill>1</fill>
       </PolyStyle>
     </Style><ns0:Schema id="out.schema">
