@@ -6,7 +6,7 @@
       </LineStyle>
       <PolyStyle>
         <color>ff0000ff</color>
-         <fill>50</fill>
+         <fill>50%</fill>
       </PolyStyle>
     </Style><Style id="flood">
       <LineStyle>
@@ -14,7 +14,7 @@
       </LineStyle>
       <PolyStyle>
         <color>ffff0000</color>
-         <fill>50</fill>
+         <fill>50%</fill>
       </PolyStyle>
     </Style><ns0:Schema id="out.schema">
       <ns0:SimpleField name="DN" type="int" />
